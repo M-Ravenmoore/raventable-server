@@ -1,0 +1,11 @@
+{
+  "name": "raven-server",
+  "version": "1.0.0",
+  "description": "backend for Raven-table webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"jest --coverage\""
+  },
+  "author": "Matt Ravenmoore",
+  "license": "ISC"
+}
